@@ -1,0 +1,2 @@
+[1042] Sandbox: CanCreateUserNamespace() clone() failure: EPERM
+[1052] Sandbox: CanCreateUserNamespace() clone() failure: EPERM
